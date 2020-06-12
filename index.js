@@ -1,3 +1,3 @@
 function first(none) {
-    return none;
+    return true;
 }
